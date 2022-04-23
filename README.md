@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hrzjohn
+- 👋 Hi, I’m @Haorui(Harry) Zhang
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me haoruizhang.cs@gmail.com
