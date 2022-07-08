@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Haorui (Harry) Zhang
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in machine learning and data mining
 - 📫 How to reach me haoruizhang.cs@gmail.com
 
 <!---
