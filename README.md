@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haorui (Harry) Zhang
 - 👀 I’m interested in machine learning and data mining
-- 📫 How to reach me haoruizhang.cs@gmail.com
+- 📫 Email: haoruizhang.cs@gmail.com
 
 <!---
 hrzjohn/hrzjohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
