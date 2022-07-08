@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Haorui (Harry) Zhang
+- 👋 Hi, I’m Haorui (Harry) Zhang
 - 👀 I’m interested in machine learning and data mining
 - 📫 Email: haoruizhang.cs@gmail.com
 
